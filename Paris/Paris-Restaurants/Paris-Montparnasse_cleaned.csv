@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+Paris Bogota,4.9,379,€30–40,Restaurant,10.837536205082426,True,30 Av. du Maine
+Restaurant MONTÉE,4.9,342,€100+,Haute French,10.734810737062606,True, · 9 Rue Léopold Robert
+Ristorante Italiano da Pupetta,4.9,320,4.9(320),Italian,10.668320995793772,True, · 55 Rue Brancion
+Le Jéroboam,4.8,3743,$$,French,13.02764270790443,True, · 72 Rue Didot
+Harper's Paris 15,4.8,3005,€20–30,French,12.808032846969308,True, · 46 Bis Bd du Montparnasse
+avec amour - le burger Montparnasse,4.8,2647,€10–20,Hamburger,12.681182202227102,True,100 Rue du Château
+Cook'n Saj,4.8,1721,€20–30,Mediterranean,12.25066079621154,True,5 Rue Bernard Palissy
+Mosuke par Mory Sacko,4.8,1390,€100+,Fine Dining,12.037059026124735,True,11 Rue Raymond Losserand
+La Véraison,4.8,927,$$,French,11.631953565565857,True,64 Rue de la Croix Nivert
+Terra Mia,4.8,719,€20–30,Italian,11.377861357721049,True, · 118 Bd du Montparnasse
+Mez Beer (ex Ker Beer) - Bar à bières,4.8,575,€10–20,Beer hall,11.15437004079735,True, · 10 Rue Vandamme
+nouilles danseuses,4.8,562,€10–20,Chinese Noodles,11.131501849893692,True,12 Rue Marmontel
+Kigawa,4.8,492,€100+,French,10.998478716492308,True,186 Rue du Château
+Le Clos Y,4.8,377,$$$,Restaurant,10.732245187448012,True, · 27 Av. du Maine
+Le 46,4.8,297,€20–30,Restaurant,10.4937321388027,True, · 46 Rue Falguière
+Bistrot 15,4.8,257,€10–20,Restaurant,10.34907608489522,True," · 1 Rue Aristide Maillol, 99 Rue Falguière"
+Royal Dragon,4.7,8433,€20–30,Mandarin restaurant,13.739907859574643,True," · 18 Rue Delambre, 98 Bd du Montparnasse"
+Mian Fan - Restaurant Asiatique,4.7,3008,€10–20,Asian Fusion,12.709030685069733,True, · 124 Bd du Montparnasse
+My Noodles,4.7,2194,€10–20,Chinese,12.393481640835176,True,129 Bd du Montparnasse
+CRISPY SOUL Paris 15,4.7,1869,€10–20,Hamburger,12.233158807455563,True, · 101 Rue Brancion
+Tonkatsu Tombo,4.7,1572,€20–30,Tonkatsu restaurant,12.060103972989152,True,14 Rue de l'Arrivée
+XV Burger,4.7,901,€10–20,French,11.50350525760834,True,179 Rue de Vaugirard
+"Anicia, table nature par François Gagnaire",4.7,872,4.7(872),French,11.47078942390898,True, · 97 Rue du Cherche-Midi
+Le Coup de Torchon,4.7,752,€10–20,French,11.32273632394984,True, · 187 Rue Saint-Jacques
+Murphy - Beers and tartines,4.7,703,€10–20,Beer hall,11.255356891810663,True,3 Rue du Maine

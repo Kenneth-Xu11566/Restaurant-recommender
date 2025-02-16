@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+Cellar,4.9,552,4.9(552),Restaurant,11.213548046277095,True,9 Rue de Crussol
+Eunoé,4.8,728,4.8(728),Restaurant,11.390301048196688,True, · 6 Rue Rochebrune
+L'insolite,4.8,482,€30–50,French,10.9779441140506,True, · 30 Rue de la Folie Méricourt
+L'Acolyte de l'Insolite,4.8,461,€20–30,Restaurant,10.933398042996648,True, · 49 Rue de la Folie Méricourt
+Burger Oburg'kampf,4.8,432,€10–20,Fast Food,10.868425588244111,True, · 52 Rue de la Folie Méricourt
+l'esprit tchaï,4.8,339,€10–20,Restaurant,10.626000107380449,True, · 115 Rue Oberkampf
+Chez Chouette,4.8,304,€20–30,French,10.51702770140622,True, · 30 Ave Parmentier
+Ober Mamma,4.7,15767,€20–30,Italian,14.365674427237485,True, · 107 Bd Richard-Lenoir
+Pierre Sang on Gambey,4.7,1006,"4.7(1,006)",Haute French,11.613737350659685,True, · 6 Rue Gambey
+Qui plume la lune,4.7,831,€100+,French,11.42262979485545,True, · 50 Rue Amelot
+Onze À Table,4.7,692,4.7(692),Restaurant,11.23958595561767,True, · 10 Rue de la Folie Méricourt
+Géosmine,4.7,672,€100+,Fine Dining,11.21025834052315,True, · 71 Rue de la Folie Méricourt
+L'Osteria Dell'Anima,4.7,671,€20–30,Italian,11.208769136971682,True,37 Rue Oberkampf
+Siamsa,4.7,424,€30–40,Modern French,10.749733455231958,True, · 13 Rue de la Pierre Levée
+Kushikatsu Bon,4.7,336,4.7(336),Japanese,10.517111159963203,True,24 Rue Jean-Pierre Timbaud
+La Brigade - Oberkampf,4.6,2287,€10–20,Restaurant,12.33499619402278,True, · 103 Rue Oberkampf
+Maythai,4.6,2265,€30–40,Thai,12.325330037917134,True, · 32 Av. de la République
+Les Cuivres - Restaurant Paris 11,4.6,1543,€20–40,Restaurant,11.94148385236316,True, · 68 Av. de la République
+Soya,4.6,1517,€20–30,Vegan,11.924489979348532,True,20 Rue de la Pierre Levée
+Café Méricourt,4.6,1125,€10–20,Brunch,11.62553831463852,True, · 22 Rue de la Folie Méricourt
+Magma,4.6,513,€100+,French,10.840275845170767,True,9 Rue Jean-Pierre Timbaud
+Bouche Paris,4.6,492,4.6(492),Restaurant,10.798478716492308,True,85 Rue Jean-Pierre Timbaud
+Pierre Sang,4.5,2639,$$,Restaurant,12.378155336503324,True, · 55 Rue Oberkampf
+Restaurant les Fabricants,4.5,2047,€20–30,Restaurant,12.12413058566129,True, · 61 Rue Jean-Pierre Timbaud
+Wall Street Oberkampf,4.5,635,€10–20,Restaurant,10.953624998892693,True, · 56 Av. de la République

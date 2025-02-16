@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+Thang Long Vietnamese Restaurant,5.0,743,€10–15,Vietnamese,11.61069604471776,True, · Meg. Alexandrou 1
+Vegan Beat Athens,4.9,5069,€5–10,Vegan,13.43089883847235,True,Perikleous 56
+Victory,4.9,2405,€10–15,Restaurant,12.685305182539862,True, · Filellinon 22
+Geco Athens,4.9,1345,"4.9(1,345)",Restaurant,12.10414929203594,True, · Lekka 14
+Thinalos Seafood Restaurant - ΘΙΝΑΛΟΣ,4.9,1321,$$,Seafood,12.086144304522325,True, · Chiou 7
+Golden Indian Haveli,4.9,1049,€10–20,Indian,11.855592608396297,True, · Αγίου Φιλίππου 10
+ETHIOPIAN FOOD KIYYAA Cafe & Restaurant,4.9,788,€10–15,Ethiopian,11.56949808985788,True,Ioánnou Drosopoúlou 40
+Mr Ben,4.9,309,€10–15,Small Plates,10.633341276897744,True,Avlonos 56
+TO MIKIO,4.9,284,€10–15,Small Plates,10.548974238161207,True,Ioánnou Drosopoúlou 14
+MIRONI Greek Restaurant,4.8,4133,€15–25,Greek,13.126758814511732,True, · Meg. Alexandrou 7
+A Little Taste of Home Restaurant,4.8,1970,$$,Restaurant,12.385788821732037,True, · Astiggos 8
+Meat n Roses Kolonaki,4.8,1738,€10–15,Restaurant,12.260490305825336,True,Amerikis 7
+Nissos Seafood Tavern,4.8,1070,€15–20,Seafood,11.77541392745595,True, · Christokopidou 1
+PANDORA,4.8,645,€5–10,Restaurant,11.269250316795771,True,Lempesi 1
+Athena Greek Gastronomy,4.8,348,€5–10,Greek,10.652202479774472,True,Karaiskaki 3
+Karamanlidika,4.7,11017,€10–20,Greek,14.007194813340064,True, · Evripidou 52
+Arch Beer House,4.7,8644,€10–20,Gastropub,13.764620717626777,True, · Eth. Antistaseos 91
+Aspro Alogo (i.e. White Horse) Traditional Greek Food,4.7,5139,€10–15,Greek,13.244613786992227,True, · Apollonos
+Arcadia Restaurant,4.7,4350,€15–25,Greek,13.077931124082731,True, · Makrigianni 23-27
+juicygrill_Athens (downtown),4.7,4134,€10–20,Hamburger,13.027000740241714,True, · Palaión Patrón Germanoú 7
+Old Ithaki,4.7,3430,$$,Restaurant,12.840315540159985,True, · Agias Filotheis 2
+Athena 's Cook,4.7,3420,€15–25,Restaurant,12.83739583005665,True, · Nikis 20
+Krasopoulio tou Kokkora,4.7,2824,€10–15,Greek,12.645909598613134,True,Esopou 4
+"Karamanlidika - Τα Καραμανλίδικα του Φάνη, Εργαστήρι - Ερμού 119",4.7,2563,€15–20,Greek,12.548933726364073,True,Ermou 119
+EATERY Bairaktaris Aiolou 29,4.7,2427,€10–15,Mediterranean,12.4944112057266,True, · Aiolou 29

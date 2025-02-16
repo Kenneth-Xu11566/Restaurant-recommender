@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+Boulangerie Le 57,4.8,1036,€1–10,Bakery,11.743122422819429,True, · 57 Rue d'Avron
+La Maison d'Isabelle,4.6,3282,€1–10,Bakery,12.696208271650036,True, · 47ter Bd Saint-Germain
+Maison Aleph,4.6,747,4.6(747),Patisserie,11.216065185132816,True, · 20 Rue de la Verrerie
+Aux Merveilleux de Fred,4.6,699,$$,Patisserie,11.14965074223381,True, · 2 Rue Monge
+Boulangerie Milligramme,4.6,329,€1–10,Bakery,10.396057750765372,True,3-5 Rue du Plateau
+Graine,4.6,328,€1–10,Bakery,10.393013608384145,True, · 54 Rue Oberkampf
+Aki Boulangerie,4.5,3818,€1–10,Bakery,12.747482004285692,True, · 16 Rue Sainte-Anne
+Boulangerie Utopie,4.5,3542,€1–10,Bakery,12.67244681834278,True,20 Rue Jean-Pierre Timbaud
+C'est Mon Donuts Paris 11,4.5,2044,€1–10,Donuts,12.122663951323595,True,49 Rue du Chemin Vert
+MAISON GEORGES LARNICOL - MOF - Biscuiterie Chocolaterie,4.5,762,€1–10,Chocolate artisan,11.135946555686647,True, · 7 Rue de Steinkerque
+Aux 2 Anges,4.5,638,€1–10,Bakery,10.95833828334479,True,23 Rue Daval
+Land&Monkeys Beaumarchais,4.4,1338,€10–20,Bakery,11.598931240688174,True,86 Bd Beaumarchais
+Le Grenier à Pain Abbesses Bodian,4.4,1278,€1–10,Bakery,11.55305163493748,True,38 Rue des Abbesses
+Délices de Belleville,4.4,776,$,Pastries,11.05415252018322,True, · 108 Rue du Faubourg du Temple
+Ten Belles Bread | Coffee Shop | Pain au levain & torréfaction artisanale,4.4,562,€1–10,Bakery,10.731501849893691,True, · 17-19 R. Bréguet
+Dupain,4.4,419,€1–10,Bakery,10.437870919922135,True,20 Bd des Filles du Calvaire
+Artisan Boulanger M. Denis,4.4,297,€1–10,Bakery,10.0937321388027,True, · 26 Rue du Faubourg Montmartre
+Besties Bakery,4.3,4634,€10–20,Bakery,12.741175704992322,True,11 Rue Auber
+Du Pain et des Idées,4.3,3618,€1–10,Bakery,12.493676665955242,True,34 Rue Yves Toudic
+La Pâtisserie Cyril Lignac,4.3,3222,$$$,Patisserie,12.37775756373692,True,24 Rue Paul Bert
+Au levain des Pyrénées,4.3,275,€1–10,Bakery,9.916771097666572,True,44 Rue des Pyrénées
+L'artisan de Gambetta,4.3,259,€1–10,Bakery,9.856828061699538,True,177 Av. Gambetta
+La tordue bakery,4.2,302,€1–10,Bakery,9.91042701737487,True,196 Rue des Pyrénées
+La tordue bakery,4.2,302,€1–10,Bakery,9.91042701737487,True,196 Rue des Pyrénées
+Benoît Castel,4.1,1173,$$$,Patisserie,11.167319848653475,True,150 Rue de Ménilmontant

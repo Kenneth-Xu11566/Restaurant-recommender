@@ -48,7 +48,7 @@ def scrape_restaurants_in_neighborhoods(city):
             # 1. Perform the Search
             search_box = driver.find_element(By.ID, "searchboxinput")
             search_box.clear()
-            search_query = f"local restaurants in {nb}, {city}"
+            search_query = f"local bakeries in {nb}, {city}"
             search_box.send_keys(search_query)
             search_box.send_keys(Keys.RETURN)
             time.sleep(5)  # Wait for results to load

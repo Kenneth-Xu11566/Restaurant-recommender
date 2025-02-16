@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+Manteigaria,4.9,4232,"4.9(4,232)",Patisserie,13.250429973538136,True,24 Rue Rambuteau
+Brigat',4.8,681,4.8(681),Patisserie,11.323562306149512,True,6 Rue du Pas de la Mule
+Brigat',4.8,681,4.8(681),Patisserie,11.323562306149512,True,6 Rue du Pas de la Mule
+UNION BOULANGERIE,4.8,666,€1–10,Bakery,11.301289670540388,True, · 2 Rue Bleue
+La Flânerie Notre-Dame,4.8,599,4.8(599),Patisserie,11.195261598115447,True, · 4 Rue du Cloitre Notre Dame
+"Levain, Le Vin",4.8,418,€20–30,Bakery,10.835481432524755,True, · 83 Rue du Faubourg Saint-Martin
+Mamiche,4.7,1231,€1–10,Bakery,11.815582126184454,True, · 32 Rue du Château d'Eau
+Mamiche,4.7,1231,€1–10,Bakery,11.815582126184454,True, · 32 Rue du Château d'Eau
+Boot Café,4.7,624,€1–10,Coffee shop,11.136150368369428,True, · 19 Rue du Pont aux Choux
+The Coffee,4.7,463,€1–10,Coffee shop,10.837727054086232,True, · 2 Rue Saint-Gilles
+DonAntónia Pastelaria,4.7,321,$$,Bakery,10.471441123130017,True,8 Rue de la Grange aux Belles
+Boulangerie BO&MIE - Saint Martin,4.6,3815,€1–10,Bakery,12.846695943718556,True, · 359 Rue Saint-Martin
+Aux Merveilleux de Fred,4.6,1654,$$,Patisserie,12.010951875583636,True, · 24 Rue du Pont Louis-Philippe
+Leonie Bakery,4.6,966,€1–10,Bakery,11.473163834212516,True, · 15 Av. Trudaine
+Fringe,4.6,939,€1–10,Coffee shop,11.444815479208264,True, · 106 Rue de Turenne
+Maison Aleph,4.6,747,4.6(747),Patisserie,11.216065185132816,True, · 20 Rue de la Verrerie
+BUDDY BUDDY Nut Butter Coffee Shop,4.6,738,€1–10,Coffee shop,11.203943824600472,True, · 15 Rue de Marseille
+Aux Merveilleux de Fred,4.6,699,$$,Patisserie,11.14965074223381,True, · 2 Rue Monge
+Boulangerie-Pâtisserie Laurent Dheilly,4.6,661,€1–10,Bakery,11.093753839851686,True,6 Rue des Halles
+She’s Cake,4.6,649,$$,Pastries,11.07543271670409,True,37 Rue du Roi de Sicile
+Bulliz,4.6,444,€1–10,Coffee shop,10.695824562432223,True, · 14 Rue d'Hauteville
+JOJO & CO Pâtisserie,4.6,364,4.6(364),Patisserie,10.49715386763674,True,37 Rue du Roi de Sicile
+Boulangerie Milligramme,4.6,329,€1–10,Bakery,10.396057750765372,True,3-5 Rue du Plateau
+Boulangerie BO&MIE Louvre-Rivoli,4.5,9128,€1–10,Bakery,13.619101891541913,True, · 91 Rue de Rivoli
+Aki Boulangerie,4.5,3818,€1–10,Bakery,12.747482004285692,True, · 16 Rue Sainte-Anne

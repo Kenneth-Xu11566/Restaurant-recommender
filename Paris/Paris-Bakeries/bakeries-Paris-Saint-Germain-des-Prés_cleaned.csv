@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+Gem la Pâtisserie Paris,4.9,535,4.9(535),Pastries,11.182266746896008,True,1 Rue de Marivaux
+UNION BOULANGERIE,4.8,666,€1–10,Bakery,11.301289670540388,True, · 2 Rue Bleue
+DonAntónia Pastelaria,4.7,321,$$,Bakery,10.471441123130017,True,8 Rue de la Grange aux Belles
+La Maison d'Isabelle,4.6,3282,€1–10,Bakery,12.696208271650036,True, · 47ter Bd Saint-Germain
+A. Lacroix Pâtissier,4.6,1681,$$,Patisserie,12.027144133408616,True, · 11 Quai de Montebello
+Aux Merveilleux de Fred,4.6,1654,$$,Patisserie,12.010951875583636,True, · 24 Rue du Pont Louis-Philippe
+Pâtisserie Carl Marletti,4.6,1494,$$$,Pastries,11.909212365692763,True, · 51 Rue Censier
+Laura Todd,4.6,583,4.6(583),Cookies,10.968187186350493,True, · 10 Rue du Four
+BINICI,4.6,466,4.6(466),Tea house,10.744185634125646,True,18 Rue Chapon
+Bulliz,4.6,444,€1–10,Coffee shop,10.695824562432223,True, · 14 Rue d'Hauteville
+JOJO & CO Pâtisserie,4.6,364,4.6(364),Patisserie,10.49715386763674,True,37 Rue du Roi de Sicile
+Boulangerie Pâtisserie L'Equilibre,4.6,282,€1–10,Bakery,10.241907070938112,True, · 108 Rue Blomet
+La Grande Épicerie de Paris,4.5,7625,$$$,Bakery,13.439187601475613,True, · 38 Rue de Sèvres
+BO&MIE,4.5,6671,€1–10,Bakery,13.305525052709516,True, · 18 R. de Turbigo
+Boulangerie Utopie,4.5,3542,€1–10,Bakery,12.67244681834278,True,20 Rue Jean-Pierre Timbaud
+BOULANGERIE MODERNE,4.5,1563,€1–10,Bakery,11.854362330421475,True,16 Rue des Fossés Saint-Jacques
+La Maison du Mochi,4.5,774,4.5(774),Pastries,11.151571873589727,True, · 39 Rue du Cherche-Midi
+Bagels & Brownies,4.5,459,€10–20,Restaurant,10.629050210060544,True, · 12 Rue Notre Dame des Champs
+Bontemps La Pâtisserie,4.4,919,$$$,Patisserie,11.223286122355688,True, · 57 Rue de Bretagne
+Boulangerie La Parisienne,4.4,913,€1–10,Bakery,11.216735880594968,True,48 Rue Madame
+Boulangerie La Parisienne,4.4,913,€1–10,Bakery,11.216735880594968,True,48 Rue Madame
+Pâtisserie Michalak l Saint-Germain-des-Prés,4.4,840,$$$$,Patisserie,11.13340189183736,True,8 Rue du Vieux Colombier
+Boulangerie du Champ de Mars,4.4,478,€1–10,Bakery,10.569610732491457,True, · 16 Av. Rapp
+MAISON GEORGES LARNICOL - MOF - Biscuiterie Chocolaterie,4.4,360,€1–10,Chocolate artisan,10.286104031450156,True, · 14 Rue de Rivoli
+Artisan Boulanger M. Denis,4.4,297,€1–10,Bakery,10.0937321388027,True, · 26 Rue du Faubourg Montmartre

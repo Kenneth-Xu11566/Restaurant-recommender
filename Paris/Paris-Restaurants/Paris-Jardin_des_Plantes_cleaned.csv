@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+KHONKAEN UDON THAI,5.0,673,€10–20,Thai,11.511745329644729,True,4 Bd de Port-Royal
+ASSANABEL,4.9,4016,€30–40,Lebanese,13.198041661371564,True, · 6 Rue Pierre Chausson
+Julia,4.9,1326,€10–20,Lebanese,12.089922170745808,True,83 Rue Mouffetard
+JJ Beaumarchais,4.9,989,4.9(989),French,11.796694331622714,True, · 92 Bd Beaumarchais
+LE COQ & L'ELEPHANT,4.9,371,€30–40,French,10.816202062607434,True,47 BIS Rue Poliveau
+Happy Caffé,4.8,4396,$,Crêperie,13.18845031552351,True, · 214 Rue de Rivoli
+Restaurant Libanais JOSEF,4.8,1820,€20–30,Lebanese,12.30659178007084,True, · 39 Bd Saint-Marcel
+La Maison du Boulevard,4.8,1561,€20–30,French,12.153081920515431,True, · 40 Bd de l'Hôpital
+Fric-Frac,4.8,1289,€10–20,Restaurant,11.961622002939189,True, · 4 Rue des Trois Frères
+Les Crêpes de Louis-Marie,4.8,901,4.8(901),Crêperie,11.603505257608337,True, · 1 Rue de l'Arbalète
+L'Hommage,4.8,898,$$,Restaurant,11.6001700683022,True, · 36 Av. de Choisy
+EV Brochettes & Mezzés,4.8,641,€10–20,Mediterranean,11.26302945692067,True,54 Bd Saint-Marcel
+Chez Neung,4.8,635,€10–20,Thai,11.253624998892692,True, · 70 Bd Saint-Marcel
+Osteria Brutto - Restaurant Italien Paris 5,4.8,574,€30–50,Restaurant,11.152629396319568,True,15 Rue Gracieuse
+Combo Restaurant - traiteur,4.8,422,€20–30,Restaurant,10.845005314036012,True, · 29 Rue Dauphine
+Karavaki au Jardin de Luxembourg,4.8,375,€20–30,Greek,10.72692602597041,True, · 7 Rue Gay-Lussac
+Green Deli,4.8,333,€10–20,Restaurant,10.608142489980445,True, · 45 Rue Censier
+Fu wei,4.8,298,€10–20,Mandarin restaurant,10.497093486505404,True, · 12b Bd de Port-Royal
+La Crète,4.7,2689,€20–30,Restaurant,12.596924656268865,True,85 Rue Mouffetard
+Le Potager du Père Thierry,4.7,1567,€20–30,Restaurant,12.05691824235602,True, · 16 Rue des Trois Frères
+L'Éclipse,4.7,1462,€20–30,Haute French,11.987560640309724,True, · 6 Bd de l'Hôpital
+Bobun Break,4.7,896,€10–20,Vietnamese,11.49794041297493,True, · 3 Rue Buffon
+India StreEAT,4.7,738,€20–30,Indian,11.303943824600474,True,105 Rue Monge
+Sharma Ji,4.7,652,4.7(652),Indian,11.180044561926652,True, · 16 Rue Frémicourt
+Baca'v Paris par Gilles Choukroun,4.7,590,$$,Bistro,11.080122536899763,True, · 6 Rue des Fossés Saint-Marcel

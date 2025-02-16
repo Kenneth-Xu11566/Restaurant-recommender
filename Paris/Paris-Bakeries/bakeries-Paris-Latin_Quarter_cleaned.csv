@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+Crible - coffee shop,5.0,429,€1–10,Coffee shop,11.061456918928016,True, · 75 Rue Buffon
+Gem la Pâtisserie Paris,4.9,535,4.9(535),Pastries,11.182266746896008,True,1 Rue de Marivaux
+Lam,4.9,416,€1–10,Bakery,10.930685260261264,True, · 24 Rue Notre Dame de Nazareth
+UNION BOULANGERIE,4.8,666,€1–10,Bakery,11.301289670540388,True, · 2 Rue Bleue
+La Flânerie Notre-Dame,4.8,599,4.8(599),Patisserie,11.195261598115447,True, · 4 Rue du Cloitre Notre Dame
+"Levain, Le Vin",4.8,418,€20–30,Bakery,10.835481432524755,True, · 83 Rue du Faubourg Saint-Martin
+Holybelly,4.7,6285,€20–30,Cafe,13.445921121024348,True, · 5 Rue Lucien Sampaix
+Baguett's Café,4.7,3917,€20–30,Coffee shop,12.973081333665831,True, · 33 Rue de Richelieu
+Le Fournil,4.7,558,4.7(558),Crêperie,11.02435896238131,True, · 62 Rue Monsieur le Prince
+Le bon moment café,4.7,443,€1–10,Coffee shop,10.793569770045137,True,24 Rue des Bernardins
+La Bête Noire,4.7,421,€10–20,Brunch,10.742632833682382,True, · 58 Rue Henri Barbusse
+DonAntónia Pastelaria,4.7,321,$$,Bakery,10.471441123130017,True,8 Rue de la Grange aux Belles
+Loulou,4.6,7368,€20–30,Australian,13.504901577935142,True, · 90 Bd Saint-Germain
+Galeries Lafayette Le Gourmet,4.6,6197,€10–30,Deli,13.331820582962107,True, · 35 Bd Haussmann
+Boulangerie BO&MIE - Saint Michel,4.6,4634,€1–10,Bakery,13.04117570499232,True, · 5 Bd Saint-Michel
+Boulangerie BO&MIE - Saint Martin,4.6,3815,€1–10,Bakery,12.846695943718556,True, · 359 Rue Saint-Martin
+La Maison d'Isabelle,4.6,3282,€1–10,Bakery,12.696208271650036,True, · 47ter Bd Saint-Germain
+JOZI BRUNCH Pantheon,4.6,1903,€10–20,Brunch,12.151186867296149,True, · 3 Rue Valette
+A. Lacroix Pâtissier,4.6,1681,$$,Patisserie,12.027144133408616,True, · 11 Quai de Montebello
+Aux Merveilleux de Fred,4.6,1654,$$,Patisserie,12.010951875583636,True, · 24 Rue du Pont Louis-Philippe
+Pâtisserie Carl Marletti,4.6,1494,$$$,Pastries,11.909212365692763,True, · 51 Rue Censier
+À la Mère de Famille,4.6,1379,$$$,Chocolate artisan,11.8291138777933,True,35 Rue du Faubourg Montmartre
+Maison Aleph,4.6,747,4.6(747),Patisserie,11.216065185132816,True, · 20 Rue de la Verrerie
+BUDDY BUDDY Nut Butter Coffee Shop,4.6,738,€1–10,Coffee shop,11.203943824600472,True, · 15 Rue de Marseille
+Aux Merveilleux de Fred,4.6,699,$$,Patisserie,11.14965074223381,True, · 2 Rue Monge

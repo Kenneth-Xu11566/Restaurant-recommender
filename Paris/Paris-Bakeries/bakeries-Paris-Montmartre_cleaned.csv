@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+Laura Todd - fine cookies,5.0,315,5.0(315),Patisserie,10.752572638825631,True, · 63 Rue des Abbesses
+Les 5 Marches - café cantine,4.8,369,€20–30,Coffee shop,10.710796644040528,True,12 Rue Girardon
+La Bossue,4.7,1120,$$,Pastries,11.72108396428914,True, · 9 Rue Joseph de Maistre
+Les Petits Mitrons,4.7,466,4.7(466),Pastries,10.844185634125646,True, · 26 Rue Lepic
+Boris Café Pâtisserie,4.7,367,€1–10,Bakery,10.60536184805457,True, · 28 Rue Lepic
+Maison Aleph,4.7,353,4.7(353),Patisserie,10.566468056933296,True,63 Rue des Abbesses
+Christophe Roussel,4.7,344,4.7(344),Chocolate shop,10.5406416573734,True, · 5 Rue Tardieu
+Aux Merveilleux de Fred,4.6,1654,$$,Patisserie,12.010951875583636,True, · 24 Rue du Pont Louis-Philippe
+Leonie Bakery,4.6,966,€1–10,Bakery,11.473163834212516,True, · 15 Av. Trudaine
+Maison Aleph,4.6,747,4.6(747),Patisserie,11.216065185132816,True, · 20 Rue de la Verrerie
+Boulangerie Raphaëlle,4.6,564,€1–10,Bakery,10.93505425149806,True,1 Rue Feutrier
+BO&MIE,4.5,6671,€1–10,Bakery,13.305525052709516,True, · 18 R. de Turbigo
+Aki Boulangerie,4.5,3818,€1–10,Bakery,12.747482004285692,True, · 16 Rue Sainte-Anne
+Boulangerie Utopie,4.5,3542,€1–10,Bakery,12.67244681834278,True,20 Rue Jean-Pierre Timbaud
+Boris Boulangerie,4.5,1778,€1–10,Bakery,11.98324441607385,True, · 48 Rue Caulaincourt
+MAISON GEORGES LARNICOL - MOF - Biscuiterie Chocolaterie,4.5,762,€1–10,Chocolate artisan,11.135946555686647,True, · 7 Rue de Steinkerque
+The French Bastards,4.5,628,€1–10,Bakery,10.942540166468198,True, · 35 Pl. Saint-Ferdinand
+Boulangerie Alexine,4.5,622,€1–10,Bakery,10.93294009273918,True, · 40 Rue Lepic
+Julambre Bakery,4.5,610,€1–10,Bakery,10.913458957167355,True,33 Rue Lauriston
+Maison Hecht,4.5,360,€1–10,Bakery,10.386104031450156,True, · 86 Rue du Rocher
+Pain Pain,4.4,1962,€1–10,Bakery,11.98171964012531,True, · 88 R. des Martyrs
+Le Grenier à Pain Abbesses Bodian,4.4,1278,€1–10,Bakery,11.55305163493748,True,38 Rue des Abbesses
+Bontemps La Pâtisserie,4.4,919,$$$,Patisserie,11.223286122355688,True, · 57 Rue de Bretagne
+Café Mareva,4.4,521,€10–30,Gluten Free,10.655750041753368,True,27 Rue de Clignancourt
+Boulangerie Castellane,4.4,482,€1–10,Bakery,10.5779441140506,True, · 6 Rue de Castellane

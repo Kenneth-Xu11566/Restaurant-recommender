@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+JJ Beaumarchais,4.9,989,4.9(989),French,11.796694331622714,True, · 92 Bd Beaumarchais
+Bistrot Instinct,4.9,986,4.9(986),French,11.793656354602636,True, · 19 Rue de Picardie
+Le Ju',4.8,12524,€10–30,Brunch,14.235402082446296,True,16 Rue des Archives
+Nessia Marais,4.8,842,4.8(842),Restaurant,11.535780014242327,True, · 6 Rue Charles-François Dupuis
+Voyage gourmand,4.8,299,€10–20,Chinese,10.500443573390688,True,50 Rue Rambuteau
+Pasta Linea,4.8,289,€1–10,Italian,10.466426688112431,True,9 Rue de Turenne
+Bouillon République,4.7,25312,€20–30,Restaurant,14.83903387056738,True, · 39 Bd du Temple
+Salōn Marais,4.7,1403,€20–30,Mediterranean,11.94636808010246,True,3 Rue du Roi Doré
+Restaurant L'Ange 20,4.7,1348,€30–50,French,11.906377291472252,True, · 44 Rue des Tournelles
+Don Giovanni,4.7,940,€20–30,Italian,11.545879875264047,True,19 Rue François Miron
+PNY MARAIS BRETONNERIE,4.7,902,€20–30,Hamburger,11.504614520062624,True, · 10 Rue Sainte-Croix de la Bretonnerie
+Les petites bouchées,4.7,897,€20–30,Restaurant,11.499055862058796,True,4 Rue du Roi de Sicile
+Distrito Francés Marais,4.7,897,€20–30,Mexican,11.499055862058796,True, · 25 Rue du Pont aux Choux
+A Modo Mio,4.7,896,€20–30,Restaurant,11.49794041297493,True, · 4 Rue de Turenne
+La Vittoria,4.7,851,€20–30,Pizza,11.446412128573376,True, · 173 Rue du Temple
+Korus restaurant,4.7,705,€100+,French,11.25819780281227,True, · 73 Rue Amelot
+Le Jackpot,4.7,684,€20–40,Modern European,11.22795791762255,True, · 10 Rue des Haudriettes
+Restaurant H,4.7,573,€100+,Restaurant,11.05088571671474,True,13 Rue Jean Beausire
+Le Chanard,4.7,533,$$,French,10.978521424165844,True, · 8 Rue Saint-Paul
+Restaurant Anne par Mathieu Pacaud,4.7,362,€100+,Fine Dining,10.591644211825772,True, · 28 Pl. des Vosges
+BigLove,4.6,7657,€20–30,Italian,13.543375541113123,True, · 30 Rue Debelleyme
+Au Bourguignon du Marais,4.6,3006,$$,French,12.60836557031292,True, · 52 Rue François Miron
+Le Colimaçon,4.6,2046,$$,French,12.22364194651157,True, · 44 Rue Vieille du Temple
+Sacré Frenchy !,4.6,1495,$$,Restaurant,11.909881485824789,True, · 58 Bd de Sébastopol
+L'Aller Retour Marais,4.6,1456,$$,Restaurant,11.883448228756633,True,5 Rue Charles-François Dupuis

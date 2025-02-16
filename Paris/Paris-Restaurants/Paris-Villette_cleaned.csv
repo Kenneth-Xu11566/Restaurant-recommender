@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+Midi12 La Fayette,4.7,1462,$$,Crêperie,11.987560640309724,True, · 12 Rue La Fayette
+La Forge,4.7,1039,$$,French,11.646013991099228,True, · 26 Av. Mathurin Moreau
+Mamagaya Pizza,4.7,733,€10–20,Pizza,11.297145701886652,True, · 132 Bd de la Villette
+Trois B,4.7,646,4.7(646),Restaurant,11.170799503782602,True, · 48 Av. Jean Jaurès
+Jeannette,4.7,295,€20–30,Restaurant,10.38697535633982,True, · 143 Av. Jean Jaurès
+Coup de Tête,4.7,281,€20–30,Restaurant,10.338354669333746,True, · 107 Rue de Belleville
+Au Comptoir Du Temps,4.6,1179,€20–30,Restaurant,11.67242190053737,True, · 35 Av. Corentin Cariou
+L'Escargot Bar,4.6,656,€20–30,Restaurant,11.086160788944088,True, · 50 Rue de la Villette
+AFRIK ASIAN ORIGINAL’S,4.6,638,€10–20,Restaurant,11.058338283344789,True,23 Rue Eugène Jumin
+Elmer,4.6,581,€100+,French,10.96475075685191,True, · 30 Rue Notre Dame de Nazareth
+À l'Endroit,4.6,563,$$,French,10.93327962813969,True, · 9 Rue du Tunnel
+Mushimushi,4.6,560,€10–20,Hot Pot,10.927936783729194,True,31 Av. Corentin Cariou
+Vieux Belleville,4.6,544,$$,French,10.898949246855942,True, · 12 Rue des Envierges
+Symphony | Restaurant Italien | Restaurant Villette | Restaurant Paris 19,4.6,522,€20–30,Italian,10.857667587882638,True, · 25 Sente des Dorées
+Simonetta,4.5,2615,€20–30,Italian,12.369019376499022,True, · 32 Quai de la Marne
+La Cantine Bretonne,4.5,1759,$$,Crêperie,11.97250074473756,True, · 22bis Rue de l'Ourcq
+Mensae,4.5,892,$$,Restaurant,11.29346613258001,True, · 23 Rue Melingue
+Buono Sano Bello,4.5,563,€20–30,Italian,10.83327962813969,True,14 Rue de la Villette
+Soces,4.5,547,4.5(547),Seafood,10.80444880242198,True, · 32 Rue de la Villette
+Water and dreams,4.5,477,€20–30,Restaurant,10.667516490888342,True, · 9 Quai de l'Oise
+Restaurant Ventrus - Parc de La Villette,4.5,455,4.5(455),Restaurant,10.620297418950951,True," · croisement du canal de l'Ourcq et du canal Saint-Denis, 1 All. du Canal"
+Le Bastringue,4.4,1932,€20–30,Bistro,11.966311014772463,True, · 67 Quai de la Seine
+Le Bastringue,4.4,1932,€20–30,Bistro,11.966311014772463,True, · 67 Quai de la Seine
+Le passage à niveau,4.4,778,€20–30,Restaurant,11.05672652417839,True,2A Rue de l'Ourcq
+Côté Canal,4.4,550,€10–20,Restaurant,10.709918278226516,True, · 5 Quai de la Seine

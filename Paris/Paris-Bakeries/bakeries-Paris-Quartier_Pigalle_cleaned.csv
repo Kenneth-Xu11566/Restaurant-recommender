@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+Gem la Pâtisserie Paris,4.9,535,4.9(535),Pastries,11.182266746896008,True,1 Rue de Marivaux
+UNION BOULANGERIE,4.8,666,€1–10,Bakery,11.301289670540388,True, · 2 Rue Bleue
+Laura Todd - fine cookies,4.8,403,4.8(403),Cookies,10.798936561946682,True,55 R. des Martyrs
+Boulangerie Pâtisserie Miche de Pain,4.8,290,€1–10,Bakery,10.46988092298052,True, · 42 Rue Cadet
+La Bossue,4.7,1120,$$,Pastries,11.72108396428914,True, · 9 Rue Joseph de Maistre
+Les Petits Mitrons,4.7,466,4.7(466),Pastries,10.844185634125646,True, · 26 Rue Lepic
+Puffy,4.7,298,4.7(298),Cookies,10.397093486505405,True, · 65 Rue Condorcet
+Mamiche,4.6,1890,€1–10,Bakery,12.144332108053687,True, · 45 Rue Condorcet
+Aux Merveilleux de Fred,4.6,1654,$$,Patisserie,12.010951875583636,True, · 24 Rue du Pont Louis-Philippe
+Leonie Bakery,4.6,966,€1–10,Bakery,11.473163834212516,True, · 15 Av. Trudaine
+She’s Cake,4.6,649,$$,Pastries,11.07543271670409,True,37 Rue du Roi de Sicile
+Boulangerie Raphaëlle,4.6,564,€1–10,Bakery,10.93505425149806,True,1 Rue Feutrier
+JOJO & CO Pâtisserie,4.6,364,4.6(364),Patisserie,10.49715386763674,True,37 Rue du Roi de Sicile
+Popelini,4.6,320,4.6(320),Pastries,10.368320995793772,True,44 R. des Martyrs
+BO&MIE,4.5,6671,€1–10,Bakery,13.305525052709516,True, · 18 R. de Turbigo
+Boulangerie Utopie,4.5,3542,€1–10,Bakery,12.67244681834278,True,20 Rue Jean-Pierre Timbaud
+Boris Boulangerie,4.5,1778,€1–10,Bakery,11.98324441607385,True, · 48 Rue Caulaincourt
+Babka Zana,4.5,929,€1–10,Bakery,11.33410873881384,True, · 65 Rue Condorcet
+Boulangerie Alexine,4.5,622,€1–10,Bakery,10.93294009273918,True, · 40 Rue Lepic
+Julambre Bakery,4.5,610,€1–10,Bakery,10.913458957167355,True,33 Rue Lauriston
+The French Bastards,4.5,569,€1–10,Bakery,10.84388043412633,True,65 Rue Jean-Baptiste Pigalle
+Popelini,4.5,390,$$$,Pastries,10.466146739123692,True,29 Rue Debelleyme
+Au Caprice Gourmand,4.5,334,€1–10,Bakery,10.3111409929767,True,79 Rue Marguerite de Rochechouart
+Le Pétrin de Pigalle,4.5,294,€1–10,Bakery,10.18357976733868,True, · 31 Rue Henry Monnier
+Pain Pain,4.4,1962,€1–10,Bakery,11.98171964012531,True, · 88 R. des Martyrs

@@ -59,7 +59,7 @@ def main():
 
         # Create a filename like "Paris-Le_Marais.csv"
         safe_nb = nb.replace(" ", "_").replace("/", "_")
-        filename = f"{city_name}-{safe_nb}.csv"
+        filename = f"bakeries-{city_name}-{safe_nb}.csv"
 
         # Write CSV (overwrite if exists)
         df.to_csv(filename, index=False, encoding="utf-8")

@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+Migniardise,5.0,360,€5–10,Restaurant,10.886104031450156,True,Veikou 30
+Victory,4.9,2405,€10–15,Restaurant,12.685305182539862,True, · Filellinon 22
+Coffee Joint,4.9,1771,€5–10,Cafe,12.379299637782834,True,Vourvachi 5-9
+Guarantee,4.9,1460,€5–10,Sandwich,12.186191714702382,True, · Veikou 41
+Golden Indian Haveli,4.9,1049,€10–20,Indian,11.855592608396297,True, · Αγίου Φιλίππου 10
+Symposio Restaurant,4.9,881,4.9(881),Mediterranean,11.68105762593618,True,Apollonos 22
+Feyrouz,4.8,5231,€5–10,Middle Eastern,13.362357743370612,True," · Καρόρη 23 και, Agathonos 1"
+Meat the Greek,4.8,3052,€5–10,Gyro,12.823552392404348,True,Fokionos 2-4
+A Little Taste of Home Restaurant,4.8,1970,$$,Restaurant,12.385788821732037,True, · Astiggos 8
+Meat n Roses Kolonaki,4.8,1738,€10–15,Restaurant,12.260490305825336,True,Amerikis 7
+Smak Ζυμερία,4.8,1491,€5–10,Fast Food,12.107202314764738,True,Romvis 21
+Nissos Seafood Tavern,4.8,1070,€15–20,Seafood,11.77541392745595,True, · Christokopidou 1
+Seawolf Athens Restaurant,4.8,1047,$$,Restaurant,11.753684210870537,True, · Dimitrakopoulou 35
+The Frogs Guesthouse,4.8,652,4.8(652),Hotel,11.280044561926651,True,
+PANDORA,4.8,645,€5–10,Restaurant,11.269250316795771,True,Lempesi 1
+Blame The Sun Athens Taproom,4.8,627,€5–10,Brewpub,11.24094654063292,True,"Veikou 60, C"
+Grande Dame Athenian Tavern,4.8,508,$$,Grill,11.03048144757848,True,Nikis 46
+Esthio Athens,4.8,446,4.8(446),Restaurant,10.900318952020063,True,Dimitrakopoulou 7
+Karamanlidika,4.7,11017,€10–20,Greek,14.007194813340064,True, · Evripidou 52
+Ατίταμος,4.7,6762,€15–20,Greek,13.51907398326783,True, · Kapodistriou 2
+Aspro Alogo (i.e. White Horse) Traditional Greek Food,4.7,5139,€10–15,Greek,13.244613786992227,True, · Apollonos
+Arcadia Restaurant,4.7,4350,€15–25,Greek,13.077931124082731,True, · Makrigianni 23-27
+juicygrill_Athens (downtown),4.7,4134,€10–20,Hamburger,13.027000740241714,True, · Palaión Patrón Germanoú 7
+OROSCOPO restaurant,4.7,3974,$$,Mediterranean,12.987528423111762,True, · Antinoros 42-44
+Old Ithaki,4.7,3430,$$,Restaurant,12.840315540159985,True, · Agias Filotheis 2

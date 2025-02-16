@@ -1,0 +1,5 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+La Gourmandine,4.8,448,$1–10,Bakery,10.904793232414985,True, · 308 Forbes Ave
+Bake Shoppe,4.8,433,$,Bakery,10.870737728002489,True,17416 Savage Rd
+Chez Nibs,4.9,23,4.9(23),Chocolate shop,8.03549421592915,False, · 212 E 500 S Suite A
+Le Petit Grain,4.5,182,€1–10,Bakery,9.704006687076795,False,7 Rue Denoyez

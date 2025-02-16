@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+Gem la Pâtisserie Paris,4.9,535,4.9(535),Pastries,11.182266746896008,True,1 Rue de Marivaux
+UNION BOULANGERIE,4.8,666,€1–10,Bakery,11.301289670540388,True, · 2 Rue Bleue
+"Levain, Le Vin",4.8,418,€20–30,Bakery,10.835481432524755,True, · 83 Rue du Faubourg Saint-Martin
+Emma Duvéré - Pâtisserie & Cantine,4.8,388,$$,Patisserie,10.761005339623274,True, · 41 Rue Sedaine
+La Bête Noire,4.7,421,€10–20,Brunch,10.742632833682382,True, · 58 Rue Henri Barbusse
+Seraphine,4.7,346,€1–10,Bakery,10.546438775057725,True,26 Rue de la Tour
+DonAntónia Pastelaria,4.7,321,$$,Bakery,10.471441123130017,True,8 Rue de la Grange aux Belles
+Boulangerie BO&MIE - Saint Michel,4.6,4634,€1–10,Bakery,13.04117570499232,True, · 5 Bd Saint-Michel
+La Maison d'Isabelle,4.6,3282,€1–10,Bakery,12.696208271650036,True, · 47ter Bd Saint-Germain
+VG Pâtisserie,4.6,2312,$$$,Patisserie,12.345868229792268,True, · 123 Bd Voltaire
+Pâtisserie Carl Marletti,4.6,1494,$$$,Pastries,11.909212365692763,True, · 51 Rue Censier
+Maison Aleph,4.6,747,4.6(747),Patisserie,11.216065185132816,True, · 20 Rue de la Verrerie
+"Pâtisserie Boulangerie ""La Petite Alsacienne""",4.6,690,€1–10,Bakery,11.136691597591303,True, · 45 Rue Raymond Losserand
+She’s Cake,4.6,649,$$,Pastries,11.07543271670409,True,37 Rue du Roi de Sicile
+Aux Merveilleux de Fred,4.6,563,$$,Pastries,10.93327962813969,True, · 29 Rue de l'Annonciation
+BINICI,4.6,466,4.6(466),Tea house,10.744185634125646,True,18 Rue Chapon
+Bulliz,4.6,444,€1–10,Coffee shop,10.695824562432223,True, · 14 Rue d'Hauteville
+Boulangerie Guyot,4.6,363,€1–10,Bakery,10.49440283426485,True,28 Rue Monge
+Boulangerie Milligramme,4.6,329,€1–10,Bakery,10.396057750765372,True,3-5 Rue du Plateau
+Boulangerie Pâtisserie L'Equilibre,4.6,282,€1–10,Bakery,10.241907070938112,True, · 108 Rue Blomet
+Biogrenelle,4.6,269,€1–10,Bakery,10.194711379601838,True, · 12 Rue des 4 Frères Peignot
+Aki Boulangerie,4.5,3818,€1–10,Bakery,12.747482004285692,True, · 16 Rue Sainte-Anne
+Boulangerie Utopie,4.5,3542,€1–10,Bakery,12.67244681834278,True,20 Rue Jean-Pierre Timbaud
+C'est Mon Donuts Paris 11,4.5,2044,€1–10,Donuts,12.122663951323595,True,49 Rue du Chemin Vert
+BOULANGERIE MODERNE,4.5,1563,€1–10,Bakery,11.854362330421475,True,16 Rue des Fossés Saint-Jacques

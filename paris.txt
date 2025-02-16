@@ -1,8 +1,0 @@
-Neighborhood: Le Marais
-                          Name  Rating  Reviews                 Info     Score
-                        Le Ju'     4.8    12524 4.8(12,524) · €10–30 45.290313
-      Au Bourguignon du Marais     4.6     3006      4.6(3,006) · $$ 36.840012
-                  Le Colimaçon     4.6     2046      4.6(2,046) · $$ 35.071001
-    Le Marais Restaurant Paris     4.5     1413  4.5(1,413) · €20–30 32.643800
-           Original Food Tours     4.7      111             4.7(111) 22.176945
-

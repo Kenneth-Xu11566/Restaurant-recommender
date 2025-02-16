@@ -1,0 +1,26 @@
+name,rating,reviews,info,category,composite_score,high_review_flag,address
+Seraphine,4.7,346,€1–10,Bakery,10.546438775057725,True,26 Rue de la Tour
+Mamiche,4.6,1890,€1–10,Bakery,12.144332108053687,True, · 45 Rue Condorcet
+Aux Merveilleux de Fred,4.6,1654,$$,Patisserie,12.010951875583636,True, · 24 Rue du Pont Louis-Philippe
+Aux Merveilleux de Fred,4.6,563,$$,Pastries,10.93327962813969,True, · 29 Rue de l'Annonciation
+Boulangerie Basil,4.6,429,€1–10,Bakery,10.661456918928018,True, · 12 Rue François Millet
+Du pain et des douceurs - boulangerie passy,4.6,270,€1–10,Bakery,10.198421958998374,True, · 82 Pl. de la Mairie
+BO&MIE,4.5,6671,€1–10,Bakery,13.305525052709516,True, · 18 R. de Turbigo
+Aki Boulangerie,4.5,3818,€1–10,Bakery,12.747482004285692,True, · 16 Rue Sainte-Anne
+Boulangerie Utopie,4.5,3542,€1–10,Bakery,12.67244681834278,True,20 Rue Jean-Pierre Timbaud
+MAISON GEORGES LARNICOL - MOF - Biscuiterie Chocolaterie,4.5,762,€1–10,Chocolate artisan,11.135946555686647,True, · 7 Rue de Steinkerque
+Aux 2 Anges,4.5,638,€1–10,Bakery,10.95833828334479,True,23 Rue Daval
+Julambre Bakery,4.5,610,€1–10,Bakery,10.913458957167355,True,33 Rue Lauriston
+Popelini,4.5,390,$$$,Pastries,10.466146739123692,True,29 Rue Debelleyme
+Le Grenier à Pain Abbesses Bodian,4.4,1278,€1–10,Bakery,11.55305163493748,True,38 Rue des Abbesses
+Bontemps La Pâtisserie,4.4,919,$$$,Patisserie,11.223286122355688,True, · 57 Rue de Bretagne
+Boulangerie La Parisienne,4.4,913,€1–10,Bakery,11.216735880594968,True,48 Rue Madame
+Ten Belles 10 | Coffee Shop | Pain au levain & torréfaction artisanale,4.4,886,€1–10,Bakery,11.18671695060508,True,10 Rue de la Grange aux Belles
+La Fabrique aux Gourmandises,4.4,758,€1–10,Bakery,11.030683385642371,True,82 Rue de l'Amiral Mouchez
+Boulangerie Castellane,4.4,482,€1–10,Bakery,10.5779441140506,True, · 6 Rue de Castellane
+MAISON GEORGES LARNICOL - MOF - Biscuiterie Chocolaterie,4.4,360,€1–10,Chocolate artisan,10.286104031450156,True, · 14 Rue de Rivoli
+La Gazelle d'Or - La Muette,4.4,338,4.4(338),Patisserie,10.223045895483018,True,20 Av. Mozart
+La Gazelle d'Or - La Muette,4.4,338,4.4(338),Patisserie,10.223045895483018,True,20 Av. Mozart
+Besties Bakery,4.3,4634,€10–20,Bakery,12.741175704992322,True,11 Rue Auber
+Besties Bakery,4.3,4634,€10–20,Bakery,12.741175704992322,True,11 Rue Auber
+Du Pain et des Idées,4.3,3618,€1–10,Bakery,12.493676665955242,True,34 Rue Yves Toudic
